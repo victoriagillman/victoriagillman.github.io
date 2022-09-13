@@ -43,3 +43,11 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+        
+        
+        Vic Notes:
+        21b2a6 is click menu colour
+        2e3842 is heading 
+        95917c is background section 1  
+        46413b is background past projects
+        505393 is "wrapper" section 3
