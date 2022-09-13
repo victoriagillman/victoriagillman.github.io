@@ -40,12 +40,25 @@
 					<article id="main">
 						<header>
 							<h2>Contact me</h2>
-							<p>This form will send me an email!/p>
+							<p>This form will send me an email!</p>
 						</header>
 						<section class="wrapper style5">
 							<div class="inner">
                                 <form action="contact.php" method="post" id="form" class="contact-form">
-								</div>
+								<div class="elem-group">
+                                <label for="name">Your Name</label>
+                                <input type="text" id="name" name="cf_name" placeholder="John Doe" pattern=[A-Z\sa-z]{3,20} required>
+                              </div>
+                              <div class="elem-group">
+                                <label for="email">Your E-mail</label>
+                                <input type="email" id="email" name="cf_email" placeholder="john.doe@email.com" required>
+                              </div>
+                                <div class="elem-group">
+                                <label for="message">Write your message</label>
+                                <textarea id="message" name="cf_message" placeholder="Say whatever you want." required></textarea>
+                              </div>
+                              <button type="submit">Send Message</button>
+                            </form>
 						</section>
 					</article>
 
