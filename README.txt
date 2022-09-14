@@ -48,6 +48,6 @@ Credits:
         Vic Notes:
         21b2a6 is click menu colour
         2e3842 is heading 
-        95917c is background section 1  
+        95917c is background section 1   D8D5CD
         46413b is background past projects
         505393 is "wrapper" section 3
