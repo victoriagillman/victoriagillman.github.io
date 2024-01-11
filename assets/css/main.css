@@ -3738,7 +3738,9 @@
 		/* Banner */
 
 			#banner {
-				padding: 70em 0 120em 0;
+				padding: 4em 0;
+				        background-color: red; /* Add a background color for testing */
+
 			}
 
 				#banner h2 {
