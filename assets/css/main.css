@@ -3883,6 +3883,7 @@
 
 			#banner {
 				padding: 8em 3em 8em 3em;
+				color:red; /* Change text color for testing */
 			}
 
 		/* Main */
