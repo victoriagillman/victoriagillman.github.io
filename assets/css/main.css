@@ -3739,7 +3739,7 @@
 
 			#banner {
 				padding: 4em 0;
-				        background-color: green; /* Add a background color for testing */
+				        background-color: pink; /* Add a background color for testing */
 
 			}
 
@@ -3750,6 +3750,9 @@
 				#banner p {
 					font-size: 1.25em;
 				}
+			#banner .box.special {
+        margin-bottom: 20px; /* Add margin between stacked boxes in the banner */
+    }
 
 		/* Main */
 
@@ -3774,9 +3777,7 @@
 				padding: 0;
 				margin-top: 0;
 			}
-			 #main .box.special {
-        margin-top: 20px; /* Adjust the margin-top value for mobile devices */
-    }
+			
 
 		/* Footer */
 
