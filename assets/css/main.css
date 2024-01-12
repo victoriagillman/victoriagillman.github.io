@@ -3739,7 +3739,7 @@
 
 			#banner {
 				padding: 4em 0;
-				        background-color: red; /* Add a background color for testing */
+				        background-color: blue; /* Add a background color for testing */
 
 			}
 
@@ -3882,10 +3882,7 @@
 		/* Banner */
 
 			#banner {
-				padding: 8em 3em 8em 3em;
-				color:red; /* Change text color for testing */
-				    border: 2px solid red; /* Add a border for testing */
-
+				padding: 5em 3em 4em 3em;
 			}
 
 		/* Main */
