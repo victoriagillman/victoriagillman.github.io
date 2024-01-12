@@ -3739,7 +3739,7 @@
 
 			#banner {
 				padding: 4em 0;
-				        background-color: blue; /* Add a background color for testing */
+				        background-color: green; /* Add a background color for testing */
 
 			}
 
@@ -3774,6 +3774,9 @@
 				padding: 0;
 				margin-top: 0;
 			}
+			 #main .box.special {
+        margin-top: 20px; /* Adjust the margin-top value for mobile devices */
+    }
 
 		/* Footer */
 
