@@ -22,47 +22,58 @@
 
     <link rel="stylesheet" href="assets/css/main.css" />
 
-    <style>
-      /* Custom inline styles moved here */
-      #banner {
-        background-image: url('images/overlapbanner.jpg');
-        background-size: cover;
-        background-position: center;
-        color: #fff;
-        text-align: center;
-        padding: 100px 0;
-      }
+<style>
+  /* Custom inline styles moved here */
+  #banner {
+    background-image: url('images/overlapbanner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    position: relative; /* add this if not already */
+  }
 
-      #main.container {
-        margin-top: 0;
-      }
+  #main.container {
+    margin-top: 0;
+  }
 
-      #cta {
-        text-align: center;
-      }
+  #cta {
+    text-align: center;
+  }
 
-      #cta .button {
-        margin: 0 10px;
-      }
+  #cta .button {
+    margin: 0 10px;
+  }
 
-      #main img {
-        width: 100%;
-        height: auto;
-      }
+  #main img {
+    width: 100%;
+    height: auto;
+  }
 
-      details summary {
-        cursor: pointer;
-        font-weight: bold;
-      }
+  details summary {
+    cursor: pointer;
+    font-weight: bold;
+  }
 
-      details[open] summary::after {
-        content: " ▲";
-      }
+  details[open] summary::after {
+    content: " ▲";
+  }
 
-      details summary::after {
-        content: " ▼";
-      }
-    </style>
+  details summary::after {
+    content: " ▼";
+  }
+
+  /* Floating banner buttons */
+  #banner ul.actions.special {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+</style>
+
   </head>
 
   <body class="landing is-preload">
