@@ -3327,6 +3327,10 @@ I
 			background: #fff;
 			color: #e89980;
 		}
+		#cta .row a.button {
+    margin: 0 0.5em; /* adds horizontal space between buttons */
+}
+
 
 		#cta input[type="text"],
 		#cta input[type="password"],
