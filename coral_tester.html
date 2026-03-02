@@ -36,17 +36,32 @@
   const tip = document.getElementById("tip");
   const obj = document.getElementById("svgObj");
 
+  let coralData = {};
+
+  // Load CSV metadata
+  fetch("assets/coral_data.csv")
+    .then(response => response.text())
+    .then(text => {
+      const rows = text.trim().split("\n");
+      const headers = rows.shift().split(",");
+
+      rows.forEach(row => {
+        const values = row.split(",");
+        const entry = {};
+        headers.forEach((h, i) => entry[h.trim()] = values[i].trim());
+        coralData[entry.id] = entry;
+      });
+    });
+
   obj.addEventListener("load", () => {
     const svgDoc = obj.contentDocument;
     if (!svgDoc) return;
 
     const hotspots = svgDoc.querySelectorAll("#layer2 path");
-    console.log("hotspots found:", hotspots.length);
 
     hotspots.forEach(el => {
       el.style.cursor = "pointer";
 
-      // Make hotspots invisible at rest BUT still hoverable/clickable
       el.style.setProperty("fill", "red", "important");
       el.style.setProperty("fill-opacity", "0", "important");
       el.style.setProperty("stroke", "red", "important");
@@ -56,6 +71,17 @@
       el.addEventListener("mouseenter", () => {
         el.style.setProperty("fill-opacity", "0.35", "important");
         el.style.setProperty("stroke-opacity", "1", "important");
+
+        const data = coralData[el.id];
+        if (data) {
+          tip.innerHTML = `
+            <strong>${data.species}</strong><br>
+            Genotype: ${data.genotype}<br>
+            ${data.notes}
+          `;
+        } else {
+          tip.textContent = el.id;
+        }
       });
 
       el.addEventListener("mouseleave", () => {
@@ -68,7 +94,6 @@
         tip.style.left = (e.clientX + 12) + "px";
         tip.style.top  = (e.clientY + 12) + "px";
         tip.style.display = "block";
-        tip.textContent = el.id;
       });
 
       el.addEventListener("click", () => {
