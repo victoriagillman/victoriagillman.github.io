@@ -75,10 +75,11 @@
         const data = coralData[el.id];
         if (data) {
           tip.innerHTML = `
-            <strong>${data.species}</strong><br>
-            Genotype: ${data.genotype}<br>
-            ${data.notes}
-          `;
+            <strong> <em> Species ${data.species}</strong></em><br>
+			Biobank ID: ${data.id}<br>
+            Age: ${data.age}<br>
+			Location: ${data.location}
+			`;
         } else {
           tip.textContent = el.id;
         }
