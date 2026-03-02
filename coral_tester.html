@@ -43,30 +43,39 @@
     const hotspots = svgDoc.querySelectorAll("#layer2 path");
     console.log("hotspots found:", hotspots.length);
 
-    hotspots.forEach(el => {
-      el.style.cursor = "pointer";
+  hotspots.forEach(el => {
+  el.style.cursor = "pointer";
 
-      el.addEventListener("mouseenter", () => {
-        el.dataset.oldFill = getComputedStyle(el).fill;
-        el.style.setProperty("fill", "rgba(255,0,0,0.45)", "important");
-      });
+  el.addEventListener("mouseenter", () => {
+    // store original styles
+    el.dataset.oldFill = el.style.fill;
+    el.dataset.oldStroke = el.style.stroke;
 
-      el.addEventListener("mouseleave", () => {
-        el.style.setProperty("fill", el.dataset.oldFill || "", "important");
-        tip.style.display = "none";
-      });
+    // apply highlight
+    el.style.setProperty("fill", "rgba(255, 0, 0, 0.45)", "important");
+    el.style.setProperty("stroke", "red", "important");
+    el.style.setProperty("stroke-width", "2", "important");
+  });
 
-      el.addEventListener("mousemove", (e) => {
-        tip.style.left = (e.clientX + 12) + "px";
-        tip.style.top  = (e.clientY + 12) + "px";
-        tip.style.display = "block";
-        tip.textContent = el.id;
-      });
+  el.addEventListener("mouseleave", () => {
+    // restore
+    el.style.fill = el.dataset.oldFill || "";
+    el.style.stroke = el.dataset.oldStroke || "";
+    tip.style.display = "none";
+  });
 
-      el.addEventListener("click", () => {
-        window.top.location.href =
-          "https://victoriagillman.github.io/coral/" + el.id;
-      });
+  el.addEventListener("mousemove", (e) => {
+    tip.style.left = (e.clientX + 12) + "px";
+    tip.style.top  = (e.clientY + 12) + "px";
+    tip.style.display = "block";
+    tip.textContent = el.id;
+  });
+
+  el.addEventListener("click", () => {
+    window.top.location.href =
+      "https://victoriagillman.github.io/coral/" + el.id;
+  });
+
     });
   });
 </script>
