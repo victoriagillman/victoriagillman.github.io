@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Coral Tank</title>
+
+  <style>
+    body { margin: 0; }
+
+    #tip {
+      position: fixed;
+      display: none;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 6px 8px;
+      font: 14px sans-serif;
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    object {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<div id="tip"></div>
+
+<object id="svgObj" type="image/svg+xml" data="images/coraltank.svg"></object>
+
+<script>
+  const tip = document.getElementById("tip");
+  const obj = document.getElementById("svgObj");
+
+  obj.addEventListener("load", () => {
+    const svgDoc = obj.contentDocument;
+    if (!svgDoc) return;
+
+    const hotspots = svgDoc.querySelectorAll("#layer2 path");
+    console.log("hotspots found:", hotspots.length);
+
+    hotspots.forEach(el => {
+      el.style.cursor = "pointer";
+
+      el.addEventListener("mouseenter", () => {
+        el.dataset.oldFill = getComputedStyle(el).fill;
+        el.style.setProperty("fill", "rgba(255,0,0,0.45)", "important");
+      });
+
+      el.addEventListener("mouseleave", () => {
+        el.style.setProperty("fill", el.dataset.oldFill || "", "important");
+        tip.style.display = "none";
+      });
+
+      el.addEventListener("mousemove", (e) => {
+        tip.style.left = (e.clientX + 12) + "px";
+        tip.style.top  = (e.clientY + 12) + "px";
+        tip.style.display = "block";
+        tip.textContent = el.id;
+      });
+
+      el.addEventListener("click", () => {
+        window.top.location.href =
+          "https://victoriagillman.github.io/coral/" + el.id;
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
