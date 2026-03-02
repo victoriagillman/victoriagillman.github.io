@@ -43,39 +43,38 @@
     const hotspots = svgDoc.querySelectorAll("#layer2 path");
     console.log("hotspots found:", hotspots.length);
 
-  hotspots.forEach(el => {
-  el.style.cursor = "pointer";
+    hotspots.forEach(el => {
+      el.style.cursor = "pointer";
 
-  el.addEventListener("mouseenter", () => {
-    // store original styles
-    el.dataset.oldFill = el.style.fill;
-    el.dataset.oldStroke = el.style.stroke;
+      // Make hotspots invisible at rest BUT still hoverable/clickable
+      el.style.setProperty("fill", "red", "important");
+      el.style.setProperty("fill-opacity", "0", "important");
+      el.style.setProperty("stroke", "red", "important");
+      el.style.setProperty("stroke-opacity", "0", "important");
+      el.style.setProperty("stroke-width", "2", "important");
 
-    // apply highlight
-    el.style.setProperty("fill", "rgba(255, 0, 0, 0.45)", "important");
-    el.style.setProperty("stroke", "red", "important");
-    el.style.setProperty("stroke-width", "2", "important");
-  });
+      el.addEventListener("mouseenter", () => {
+        el.style.setProperty("fill-opacity", "0.35", "important");
+        el.style.setProperty("stroke-opacity", "1", "important");
+      });
 
-  el.addEventListener("mouseleave", () => {
-    // restore
-    el.style.fill = el.dataset.oldFill || "";
-    el.style.stroke = el.dataset.oldStroke || "";
-    tip.style.display = "none";
-  });
+      el.addEventListener("mouseleave", () => {
+        el.style.setProperty("fill-opacity", "0", "important");
+        el.style.setProperty("stroke-opacity", "0", "important");
+        tip.style.display = "none";
+      });
 
-  el.addEventListener("mousemove", (e) => {
-    tip.style.left = (e.clientX + 12) + "px";
-    tip.style.top  = (e.clientY + 12) + "px";
-    tip.style.display = "block";
-    tip.textContent = el.id;
-  });
+      el.addEventListener("mousemove", (e) => {
+        tip.style.left = (e.clientX + 12) + "px";
+        tip.style.top  = (e.clientY + 12) + "px";
+        tip.style.display = "block";
+        tip.textContent = el.id;
+      });
 
-  el.addEventListener("click", () => {
-    window.top.location.href =
-      "https://victoriagillman.github.io/coral/" + el.id;
-  });
-
+      el.addEventListener("click", () => {
+        window.top.location.href =
+          "https://victoriagillman.github.io/coral/" + el.id;
+      });
     });
   });
 </script>
