@@ -26,5 +26,3 @@ It’s also been a nice way to see how much has changed - not just in what I’v
 The old site did exactly what it needed to do at the time. It got me through most of my PhD, gave me a space to showcase my work and taught me a lot along the way.
 
 And now it’s time for an upgrade.
-
-Thanks for your service 🫡
