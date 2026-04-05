@@ -200,18 +200,18 @@ Next I want to take you through some tips that made my life so much easier in ca
 
 ### Figures and tables 
 
-#### Inserting figures: 
-Personally, I prefer figures and tables **outside the main text body** as it makes them easier to read with no constant scrolling- you can just print them all out or split screen. 
+#### Image quality
+* When exporting from R I used **600 dpi** (which is what some journals request- better save high quality than have to remake!)
+* Stop your image quality being auto-compressed in Word: [**File → Options → Advanced → Image Size and Quality**. Tick: “Do not compress images”](https://support.microsoft.com/en-us/office/turn-off-picture-compression-81a6b603-0266-4451-b08e-fc1bf58da658)
 
-For wide figures- use [**section breaks**](https://support.microsoft.com/en-gb/office/insert-a-section-break-eef20fd8-e38c-4ba6-a027-e503bdf8375c) (not just page breaks)
+#### Inserting figures: 
+* Personally, I prefer figures and tables **outside the main text body** as it makes them easier to read with no constant scrolling- you can just print them all out or split screen. 
+
+* For wide figures- use [**section breaks**](https://support.microsoft.com/en-gb/office/insert-a-section-break-eef20fd8-e38c-4ba6-a027-e503bdf8375c) (not just page breaks)
   → allows landscape pages for wide figures
 
-Even if you use figures in text-  always put figures inside **table cells**- which stops them jumping around
+* Even if you use figures in text-  always put figures inside **table cells**- which stops them jumping around
 * Turn on **“View Gridlines”** to position things neatly
-
-#### Image quality
-* When exporting from R I used **600 dpi** (journal standard)
-* Stop your image quality being auto-compressed in Word: [**File → Options → Advanced → Image Size and Quality**. Tick: “Do not compress images”](https://support.microsoft.com/en-us/office/turn-off-picture-compression-81a6b603-0266-4451-b08e-fc1bf58da658)
 
 #### Auto-numbers
 Using [Word auto numbering with fiugre/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
@@ -237,25 +237,16 @@ The biggest thing I learned is *there is far more flexibility than you think.*
 
 There is no single “correct” thesis format.
 
-Most guidance boils down to:
-
-* include the required sections
-* make it readable/professional
-* follow submission requirements
+Most guidance boils down to- include the required sections, make it readable/professional and follow submission requirements of your institution. 
 
 Beyond that, a lot is up to you.
 
-So:
-
-* look at previous theses
-* check official guidance
-* ask your supervisor
-* then choose what makes the most sense for your work
+So, look at previous theses, check official guidance, ask your supervisor and then choose what makes the most sense for your work
 
 ---
 
-## If you use this
+## If you find this helpful 
 
-Please share this template/guidance. 
+Please give it a share and tag me!
 
 And if you’ve found better approaches - even better. Please let me know and I will update this with credit to you of course :blush: 
