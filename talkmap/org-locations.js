@@ -1,22 +1,52 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Integrating genomics and modelling to predict climate change response in the freshwater pearl mussel (Margaritifera margaritifera)<br />University of Aberdeen Student Conference; Aberdeen, UK",
+    57.1482429,
+    -2.0928095
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Integrating genomics and modelling to predict climate change response in the endangered freshwater pearl mussel (Margaritifera margaritifera)<br />MASTS Annual Science Meeting; UK",
+    19.7031822,
+    -79.9174627
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
+    "Adaptive landscape of the endangered freshwater pearl mussel (Margaritifera margaritifera)<br />Malacological Society of London; London, UK",
     51.5074456,
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Local adaptation and forecasting response in the Scottish freshwater pearl mussel (Margaritifera margaritifera)<br />European Society of Evolutionary Biology; Barcelona, Spain",
+    41.3825802,
+    2.177073
+  ],
+  [
+    "Integrating genomics and modelling to predict climate change response in the endangered freshwater pearl mussel (Margaritifera margaritifera)<br />British Ecological Society Annual Meeting; Edinburgh, UK",
+    55.9533456,
+    -3.1883749
+  ],
+  [
+    "Integrating genomics and modelling to predict climate change response in the endangered freshwater pearl mussel (Margaritifera margaritifera)<br />Malacological Society of London; London, UK",
+    51.5074456,
+    -0.1277653
+  ],
+  [
+    "Adaptive landscape of the endangered freshwater pearl mussel (Margaritifera margaritifera)<br />Evolution Meeting; Montreal, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
+    "Introduction to GitHub for reproducible research<br />University of Aberdeen, School of Biological Sciences Seminar Series; Aberdeen, UK",
+    57.1482429,
+    -2.0928095
+  ],
+  [
+    "Using historical museum shells to unravel phylogeographic relationships and climate change response<br />Bivalves: Where Are We Going?; Cambridge, UK",
+    52.2055314,
+    0.1186637
+  ],
+  [
+    "Gametogenic ecology of Antarctic brittle star Ophionotus victoriae<br />Polar Early Career Conference, UK Polar Network; Online",
+    43.5904719,
+    3.8595132
   ]
 ];
