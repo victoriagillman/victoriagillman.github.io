@@ -36,7 +36,7 @@ For me, GitHub is useful for three main reasons: change tracking, collaboration,
 
 <img src="{{ '/images/github_tut/changetracking.png' | relative_url }}" 
      alt="Change tracking with Github is great" 
-     style="width:250px; float:right; margin-left:30px;"
+     style="width:30%; float:right; margin-left:30px;"
 	 loading="lazy">
 	 
 GitHub keeps a history of changes to your files. Instead of saving endless versions of the same script with names like `analysis_final.R`
