@@ -47,9 +47,9 @@ Some theses also have:
 * General Intro/discussion as titled as chapters (e.g Chapter One: General Introduction")
 * General Intro/discussion titled without chapter numbers eg "General Introduction"/"General Discussion"
 
-At the end of the day, *go with what is clear, logical, and easy to read.*
+At the end of the day, *go with what is clear, logical, and easy to read for you.*
 
-If your examiners don't like your choice of formatting, they will give you a very minor (and easy to impliment!) correction. They will probably think its so irrelevant they wont even comment- they are there to comment on your science after all! 
+If your examiners don't like your choice of formatting, they will probably give you a very minor (and easy to impliment!) correction. They will most likely think its so irrelevant they wont even comment- they are there to comment on your science after all! 
 
 Next I have broken down some of these sections. I (and I am guessing a lot of us) have not written these before. They are pretty self explanitory, but I think its helpful to have a visual to start you off. 
 
@@ -174,7 +174,7 @@ After looking at many many different thesises I concluded everyone approaches it
 
 The key idea is to move from **chapters > themes > wider contribution**
 
-Focus on key themes (your aims!), what the thesis shows overall, broader implications. You can structure around questions (subheadings) or write it as a continuous narrative. I have seen both approaches used and both seem acceptable. It seems to really depend on student/examiner preference!
+Focus on key themes (your aims!), what the thesis shows overall, broader implications. You can structure around questions (using subheadings) or write it as a continuous narrative. I have seen both approaches used and both seem acceptable. It seems to really depend on student/examiner preference!
 
 This was my structure, however I think each examiner and supervisor likes different things so please bear that in mind!
 
@@ -189,9 +189,9 @@ I think what examiners are most interested here is where you think your thesis s
 
 ### References
 
-Some people incude references per chapter, some people have just one combined reference list at the end of the thesis. 
+Some people incude references per chapter, some people have just one combined reference list at the end of the thesis. Preferences again vary.
 
-If using a reference manager in Word, a single combined reference list is usually easiest! 
+If using a reference manager in Word, a single combined reference list is usually easiest! This is what I did :)
 
 ---
 ## Tips
@@ -214,7 +214,7 @@ Next I want to take you through some tips that made my life so much easier in ca
 * Turn on **“View Gridlines”** to position things neatly
 
 #### Auto-numbers
-Using [Word auto numbering with fiugre/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
+* Using [Word auto numbering with fiugre/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
 * To ubdate the numbers, [press **Ctrl A** + **A**. Then press **F9**](https://support.microsoft.com/en-us/office/update-fields-7339a049-cb0d-4d5a-8679-97c20c643d4e)
 * In the cross-ref syles you can make them link to the multilevel numbering of chapters/sections eg Figure 1.1, Figure 2.3
 (I set my introduction as Section 0 → Figure 0.1)
@@ -233,13 +233,10 @@ Highly recommend printing a copy or two of your thesis- I found it much easier t
 
 ## Final thoughts
 
-The biggest thing I learned is *there is far more flexibility than you think.*
-
-There is no single “correct” thesis format.
+The biggest thing I learned is *there is far more flexibility than you think* and *there is no single “correct” thesis format*.
 
 Most guidance boils down to- include the required sections, make it readable/professional and follow submission requirements of your institution. 
-
-Beyond that, a lot is up to you.
+Beyond that, the rest is up to you.
 
 So, look at previous theses, check official guidance, ask your supervisor and then choose what makes the most sense for your work
 
