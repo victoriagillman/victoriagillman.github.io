@@ -1,5 +1,5 @@
 ---
-title: 'Intro to using GitHub with RStudio and on your HPC'
+title: 'Intro to GitHub with RStudio and HPC systems'
 date: 2026-04-05
 permalink: /posts/2026-04-05-github/
 tags:
