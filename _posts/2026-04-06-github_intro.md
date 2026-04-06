@@ -293,7 +293,7 @@ My HPC bioinformatics workflow looks like this:
 For example, locally in RStudio I might run:
 <img src="{{ '/images/github_tut/git_daytoday.png' | relative_url }}" 
      alt="save, add, commit, push" 
-     style="width:100%; display:block; margin-left:20px auto;"
+     style="width:100%; display:block; margin-left:20px;"
 	 loading="lazy">
 	 
 ```bash
@@ -325,8 +325,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 3. copy the public key into your online GitHub settings
 <img src="{{ '/images/github_tut/ssh_key_github.png' | relative_url }}" 
      alt="SSH on github options" 
-     style="width:70%; display:block; margin-left:20px auto;"
-	 loading="lazy">
+     style="width:70%; display:block; margin-left:20px;">
 	 
 4. test the connection
 ```bash
@@ -369,7 +368,7 @@ For a lot of academic work, especially if you mostly code alone, GitHub is actua
 If you are new to GitHub, once the initial setup and learning curve is done, the everyday workflow often comes down to four commands: `status`, `add`, `commit`, and `push` 
 
 <img src="{{ '/images/github_tut/git_daytoday_simple.png' | relative_url }}" 
-     style="width:100%; display:block; margin-left:20px auto;">
+     style="width:100%; display:block; margin-left:20px;">
 	 
 ## Helpful resources
 
