@@ -24,7 +24,7 @@ In this post, I want to go through how I actually use GitHub in research:
 * using Git with HPC systems
 
 <img src="{{ '/images/github_tut/github.png' | relative_url }}" 
-     alt="Directory file structure setup" 
+     alt="Github homepage" 
      style="width:100%; display:block; margin-left:20px auto;"
 	 loading="lazy">
 	 
@@ -35,7 +35,7 @@ For me, GitHub is useful for three main reasons: change tracking, collaboration,
 ### 1. Change tracking
 
 <img src="{{ '/images/github_tut/changetracking.png' | relative_url }}" 
-     alt="Directory file structure setup" 
+     alt="Change tracking with Github is great" 
      style="width:250px; float:right; margin-left:30px;"
 	 loading="lazy">
 	 
@@ -87,7 +87,7 @@ GitHub is for code and associated project files, not for storing huge raw datase
 ## Setting up GitHub with a new RStudio project
 
 <img src="{{ '/images/github_tut/git_github_rstudio.png' | relative_url }}" 
-     alt="GitHub RStudio setup" 
+     alt="logos of git github and rstudio" 
      style="max-width:300px; width:100%; float:right; margin-left:20px;"
 	 loading="lazy">
 	 
@@ -186,7 +186,7 @@ git push origin main
 That is basically it.
 
 <img src="{{ '/images/github_tut/git_daytoday.png' | relative_url }}" 
-     alt="Directory file structure setup" 
+     alt="save, add, commit, push workflow" 
      style="width:100%; display:block; margin-left:20px auto;"
 	 loading="lazy">
 	 
@@ -292,7 +292,7 @@ My HPC bioinformatics workflow looks like this:
 
 For example, locally in RStudio I might run:
 <img src="{{ '/images/github_tut/git_daytoday.png' | relative_url }}" 
-     alt="Directory file structure setup" 
+     alt="save, add, commit, push" 
      style="width:100%; display:block; margin-left:20px auto;"
 	 loading="lazy">
 	 
@@ -324,7 +324,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 3. copy the public key into your online GitHub settings
 <img src="{{ '/images/github_tut/ssh_key_github.png' | relative_url }}" 
-     alt="Directory file structure setup" 
+     alt="SSH on github options" 
      style="width:70%; display:block; margin-left:20px auto;"
 	 loading="lazy">
 	 
@@ -369,9 +369,7 @@ For a lot of academic work, especially if you mostly code alone, GitHub is actua
 If you are new to GitHub, once the initial setup and learning curve is done, the everyday workflow often comes down to four commands: `status`, `add`, `commit`, and `push` 
 
 <img src="{{ '/images/github_tut/git_daytoday_simple.png' | relative_url }}" 
-     alt="Directory file structure setup" 
-     style="width:100%; display:block; margin-left:20px auto;"
-	 loading="lazy">
+     style="width:100%; display:block; margin-left:20px auto;">
 	 
 ## Helpful resources
 
