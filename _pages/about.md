@@ -25,7 +25,7 @@ I have also delivered training, including an introductory GitHub seminar for my 
 
 <img src="{{ '/images/ziggycutout_bigger.png' | relative_url }}" 
      alt="Ziggy" 
-     style="width:50%; float:right; margin-left:30px;"
+     style="width:50%; float:right; margin-left:0px;"
 	 loading="lazy">
 	 
 When I am not beavering away at my keyboard, or generally doing science, I find myself out walking with my dog Ziggy, casually birding, swimming, doing puzzles and learning new crafts. 
