@@ -12,7 +12,6 @@ tags:
   - academic writing
   - tips
 toc: true
-toc_sticky: true
 ---
 
 When I was writing my PhD thesis, I found that understanding formatting guidance in practice often involved piecing together information from different sources. This guide is intended to help you write yours by bringing that guidance together in one place.

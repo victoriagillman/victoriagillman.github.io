@@ -44,8 +44,15 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
-        {{ content }}
+<section class="page__content" itemprop="text">
+  {% if page.toc %}
+		<aside class="sidebar__right sticky" style="position: sticky; top: 5rem; z-index: 20;">      <nav class="toc">
+        <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'align-justify' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+        {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+      </nav>
+    </aside>
+  {% endif %}
+  {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
