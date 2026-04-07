@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a conservation geneticist based in Scotland, working at the intersection of genomics, ecological modelling, and conservation. My current research focuses on understanding the drivers of freshwater pearl mussel decline and how populations may respond to environmental change.
+I am a researcher based in Scotland, working at the intersection of genomics, ecological modelling, and conservation. My current research focuses on understanding the drivers of freshwater pearl mussel decline and how populations may respond to environmental change.
 
 I completed my PhD at the [University of Aberdeen](https://www.abdn.ac.uk) in March 2026, funded by the [SUPER DTP](https://superdtp.st-andrews.ac.uk/), passing my viva with no corrections. I was based in the [Layton Lab](https://www.laytonlab.com/) and supervised by Kara Layton, Lesley Lancaster, and Victoria Pritchard. This work combined population genomics and modelling to investigate local adaptation and climate vulnerability in endangered freshwater species.
 
