@@ -21,8 +21,6 @@ As a University of Aberdeen student, formal guidance is centred on the [library 
 
 I aim with this post to provide a practical guide to what a thesis usually needs, what tends to be flexible and some formatting choices that can make life much easier for you and your examiners.
 
-{% include toc %}
-
 ## The core components of a thesis
 
 The exact order and names of sections can vary. A lot.
