@@ -15,21 +15,19 @@ toc: true
 toc_sticky: true
 ---
 
-When I was writing my PhD thesis, I spent far too long trying to find clear formatting guidance. Advice was scattered across different documents and basically amounted to “look at other theses" and "ask your supervisor”. 
+When I was writing my PhD thesis, I found that understanding formatting guidance in practice often involved piecing together information from different sources. This guide is intended to help you write yours by bringing that guidance together in one place.
 
-As a University of Aberdeen student, official guidance I found was centered on the [library thesis submittance guidance](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/4.-Submission-of-research-thesis---Library-Guide_revised-05.03.2026.pdf), the [pgr code of practice](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/1.-PGR_CoP_2025_26_clause-10.7-revised_05.03.2026.pdf) and I also emailed my school's PGR admin and the university-wide Postgraduate Research College.
-In Aberdeen, final thesis versions are stored by the library on [Primo](https://abdn.primo.exlibrisgroup.com/discovery/search?vid=44ABE_INST:44ABE_VU1&lang=en).
+As a University of Aberdeen student, formal guidance is centred on the [library thesis submittance guidance](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/4.-Submission-of-research-thesis---Library-Guide_revised-05.03.2026.pdf), the [pgr code of practice](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/1.-PGR_CoP_2025_26_clause-10.7-revised_05.03.2026.pdf). Informally, this is supplemented by advice from our supervisors and by looking at previous theses stored by the library on [Primo](https://abdn.primo.exlibrisgroup.com/discovery/search?vid=44ABE_INST:44ABE_VU1&lang=en). Ultimately, there are certain things a thesis must include, but also a lot of flexibility in how you deliver them.
 
-I surmised a lot from all of these, built my own thesis (no corrections!) and am sharing these findings with you all here, as I am a big fan of not reinventing the wheel and saving others time! Although I originally built this for my own PhD submission at the University of Aberdeen, most of the structure and formatting here should be useful regardless of institution.
+I aim with this post to provide a practical guide to what a thesis usually needs, what tends to be flexible and some formatting choices that can make life much easier for you and your examiners.
 
-Therefore, this post is a a practical guide to what a thesis usually needs, what tends to be flexible and the small formatting choices that make life much easier for you an your examiners.
 {% include toc %}
 
 ## The core components of a thesis
 
-The exact order, formatting, and naming can vary. A lot.
+The exact order and names of sections can vary. A lot.
  
-But most theses include the same core sections:
+But most theses include these same core sections:
 
 * Declaration
 * Acknowledgements
@@ -46,12 +44,6 @@ Some theses also have:
 * Lists of figures/tables (if you keep figures in text, this can be very useful for navigation. I keep figures at the end of the chapter text)
 * General Intro/discussion as titled as chapters (e.g Chapter One: General Introduction")
 * General Intro/discussion titled without chapter numbers eg "General Introduction"/"General Discussion"
-
-At the end of the day, *go with what is clear, logical, and easy to read for you.*
-
-If your examiners don't like your choice of formatting, they will probably give you a very minor (and easy to impliment!) correction. They will most likely think its so irrelevant they wont even comment- they are there to comment on your science after all! 
-
-Next I have broken down some of these sections. I (and I am guessing a lot of us) have not written these before. They are pretty self explanitory, but I think its helpful to have a visual to start you off. 
 
 ### Cover page
 
@@ -151,7 +143,7 @@ These are just common manuscript structure. AKA:
 * Results
 * Discussion
 * Personally I like figures out of text so I then have a "Figures" section here
-* Supplimentary Materials (some people prefer the word Appendix) 
+* Supplmentary Materials (some people prefer the word Appendix) 
 
 Subheadings are very helpful to break up the text for the reader, especially if you use the MS Word styles/navigation
 
@@ -170,7 +162,7 @@ I really struggled with this- trying to avoid parroting back the abstracts or co
 
 This was my roughest bit of work, and I think its common that the general discussion is written quite quickly at the end- I am not saying that is the wisest thing to do but I am just saying so maybe you give yourself a break. 
 
-After looking at many many different thesises I concluded everyone approaches it differently. 
+After looking at many many different theses I concluded everyone approaches it differently and it really depends on student/supervisor/examinor preference. 
 
 The key idea is to move from **chapters > themes > wider contribution**
 
@@ -185,13 +177,44 @@ This was my structure, however I think each examiner and supervisor likes differ
 * Pull in some issues/limitations/caveats and what you hope for the future. 
 * Then summarise and conclude
 
-I think what examiners are most interested here is where you think your thesis sits in the literature. Its a fun game with not being afraid to pat yourslef ion the back, but also showing your examiners you know the caveats and limitations of your work eg "I have singlehandedly saved this species" versus "If we account for X, Y and Z, this work is an important and valid *contribution* to the wider scientific discussion"
+I think what examiners are most interested here is where you think your thesis sits in the literature. Its a fun game with not being afraid to pat yourself on the back, but also showing your examiners you know the caveats and limitations of your work eg "I have singlehandedly saved this species" versus "If we account for X, Y and Z, this work is an important and valid *contribution* to the wider scientific discussion"
 
 ### References
 
 Some people incude references per chapter, some people have just one combined reference list at the end of the thesis. Preferences again vary.
 
-If using a reference manager in Word, a single combined reference list is usually easiest! This is what I did :)
+If using a reference manager in Word, and have you thesis within a single Word doc, a single combined reference list is usually easiest! This is what I did :)
+
+---
+## Formatting Guidance
+
+After checking your supervisors opinion, any formatting seems acceptable as long as your thesis is professional, consistent, and easy to read (i.e. not Comic Sans or Papyrus).
+
+Here are some common formats I've seen across theses:
+
+### Font
+
+* Sans-serif (e.g. Arial) is commonly used and very readable. Serif fonts (e.g. Times New Roman) are often seen as more traditional. I used the default MS Word font but anything "professional" is generally fine.
+
+### Line spacing
+
+* 1.5 spacing is very common. I personally found this harder to read and used 1.15 instead. I think larger spacing likely comes from examiners annotating printed theses in the past (?) - most examiners now read and annotate digitally.
+
+### Margins and paragraphs
+
+* I used MS Word defaults (including spacing between paragraphs rather than indents). As long as you are consistent, then you should be golden.
+
+### Text alignment
+
+* I used left-aligned text. Justified text is also common but in my opinion the uneven spacing between words can make it harder to read. 
+
+### Line numbers
+
+* Can be very helpful to facilitate revisions and discussion. I considered including them, but chose not to for submission. They can make the document feel less “finished”, which some people prefer to avoid!
+
+### Referencing system
+
+* I think a standard reference system is the most important thing here! If I had to pick one, I would say Harvard. I went with the same referencing system I used for my first chapter as it was published- to keep consistency and stay true to the published text. But alternatively, you could add a note at the beginning of the odd chapter saying "A note on formatting"...
 
 ---
 ## Tips
@@ -214,7 +237,7 @@ Next I want to take you through some tips that made my life so much easier in ca
 * Turn on **“View Gridlines”** to position things neatly
 
 #### Auto-numbers
-* Using [Word auto numbering with fiugre/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
+* Using [Word auto numbering with figure/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
 * To ubdate the numbers, [press **Ctrl A** + **A**. Then press **F9**](https://support.microsoft.com/en-us/office/update-fields-7339a049-cb0d-4d5a-8679-97c20c643d4e)
 * In the cross-ref syles you can make them link to the multilevel numbering of chapters/sections eg Figure 1.1, Figure 2.3
 (I set my introduction as Section 0 → Figure 0.1)
@@ -237,6 +260,8 @@ The biggest thing I learned is *there is far more flexibility than you think* an
 
 Most guidance boils down to- include the required sections, make it readable/professional and follow submission requirements of your institution. 
 Beyond that, the rest is up to you.
+
+If your examiners don’t like your formatting choices, they will usually suggest minor (and easy to implement) corrections. In most cases, the focus is on your research rather than the exact formatting.
 
 So, look at previous theses, check official guidance, ask your supervisor and then choose what makes the most sense for your work
 
