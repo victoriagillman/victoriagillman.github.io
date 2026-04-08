@@ -253,6 +253,11 @@ Highly recommend printing a copy or two of your thesis- I found it much easier t
 * printing at your university
 * get it cheaply bound locally (mine was "comb bound" for £3)
 
+## Download the template
+
+I’ve put together an editable Word template based on this guide:
+
+[Download my PhD thesis template](/files/Thesis_template_by_VGillman.docx){: .btn .btn--primary}
 
 ## Final thoughts
 
