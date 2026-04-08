@@ -17,9 +17,11 @@ toc_sticky: true
 
 When I was writing my PhD thesis, I found that understanding formatting guidance in practice often involved piecing together information from different sources. This guide is intended to help you write yours by bringing that guidance together in one place.
 
-As a University of Aberdeen student, formal guidance is centred on the [library thesis submittance guidance](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/4.-Submission-of-research-thesis---Library-Guide_revised-05.03.2026.pdf), the [pgr code of practice](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/1.-PGR_CoP_2025_26_clause-10.7-revised_05.03.2026.pdf). Informally, this is supplemented by advice from our supervisors and by looking at previous theses stored by the library on [Primo](https://abdn.primo.exlibrisgroup.com/discovery/search?vid=44ABE_INST:44ABE_VU1&lang=en). Ultimately, there are certain things a thesis must include, but also a lot of flexibility in how you deliver them.
+As a University of Aberdeen student, formal guidance is centred on the [library thesis submittance guidance](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/4.-Submission-of-research-thesis---Library-Guide_revised-05.03.2026.pdf) and the [pgr code of practice](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/1.-PGR_CoP_2025_26_clause-10.7-revised_05.03.2026.pdf). Informally, this is supplemented by advice from our supervisors and by looking at previous theses stored by the library on [Primo](https://abdn.primo.exlibrisgroup.com/discovery/search?vid=44ABE_INST:44ABE_VU1&lang=en). Ultimately, there are certain things a thesis must include, but also a lot of flexibility in how you deliver them.
 
 I aim with this post to provide a practical guide to what a thesis usually needs, what tends to be flexible and some formatting choices that can make life much easier for you and your examiners.
+
+{% include toc %}
 
 ## The core components of a thesis
 
@@ -39,7 +41,7 @@ But most theses include these same core sections:
 Some theses also have:
 
 * Glossaries (if your study system is very niche, consider this!)
-* Lists of figures/tables (if you keep figures in text, this can be very useful for navigation. I keep figures at the end of the chapter text)
+* Lists of figures/tables (if you keep figures in text, this can be very useful for navigation. I keep figures at the end of the chapter text so this wouldve been redundant for my thesis)
 * General Intro/discussion as titled as chapters (e.g Chapter One: General Introduction")
 * General Intro/discussion titled without chapter numbers eg "General Introduction"/"General Discussion"
 
