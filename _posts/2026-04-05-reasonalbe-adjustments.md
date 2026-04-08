@@ -1,7 +1,7 @@
 ---
-title: 'PhD accommodations as a neurodiverse (autistic/audhd) researcher?'
-date: 2046-04-05
-permalink: /posts/2046-04-05-reasonalbe-adjustments/
+title: 'PhD accommodations as a neurodiverse researcher'
+date: 2026-04-05
+permalink: /posts/2026-04-05-reasonalbe-adjustments/
 tags:
   - PhD
   - reasonable adjustments
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true 
 ---
 
-When I got the email to say I had been accepted for my PhD programme- I was thrilled. I was the first member of my direct family to go to university, and first member in my whole known family to go for a PhD. I also am dyslexic, and now diagnosed autistic, and had received accommodations through extra time in my GCSEs and A-levels plus accommodations during my MSci, including further extra time in exams and a special pen that recorded my lectures. Thinking back- I think I would've preferred a notetaker! 
+When I got the email to say I had been accepted for my PhD programme- I was thrilled. I was the first member of my direct family to go to university, and first member in my whole known family to go for a PhD. I also am dyslexic, now diagnosed autistic, and had received accommodations through extra time in my GCSEs and A-levels plus accommodations during my MSci, including extra time in exams and a special pen that recorded my lectures and my writing at the same time. Thinking back- I think I would've preferred a notetaker! 
 
 So when I received my PhD offer, my first port of call was the Student Support service. Here I discovered that accommodations for PhD students were as clear as mud for the students and staff they interact with (inc supervisors and professional staff). 
 
@@ -35,7 +35,7 @@ PhDs similar to mine, that is a PhD in Biological Sciences in the UK lasting 3-4
 - often there is some kind of progression assessment at the end of your first year and/or second year- either involving a write up, a presentation or a mini viva like assessment
 - then there is that pesky assessment at the very end called a :sparkles: viva :sparkles:
 
-PhD programs, by their very nature are very different to undergraduate study - generally you are not learning in formal university lectures or having written exams. Therefore accommodations you might need, and accommodations the university can provide, vary greatly from student to student.
+PhD programmes, by their very nature are very different to undergraduate study - generally you are not learning in formal university lectures or having written exams. Therefore accommodations you might need, and accommodations the university can provide, vary greatly from student to student.
 
 Next I want to take you through where accommodations for PhD students come from
 
@@ -65,7 +65,7 @@ However, how this applies to PhD students can be a bit unclear, especially depen
 - funded by a research council (e.g. UKRI)  
 - funded by another source  
 
-Student support usually leads this, plus your school administrator and your funding body. I reccomend asking about your specific process to getting funded support early on - including who sends what paperwork to who, and what are reasonable timelines to expect. Dont be afraid to ask questions.
+Student support usually leads this, plus your school administrator and your funding body. I recommend asking about your specific process to getting funded support early on - including who sends what paperwork to who, and especially reasonable timelines for each step down the funding pipeline. Dont be afraid to ask questions.
 
 ### 3. Informal / day-to-day adjustments
 
@@ -110,10 +110,38 @@ I would also really recommend co-working - find a friend, both log onto Teams, c
 
 This is not an exhaustive list, but hopefully it gives you a starting point.
 
-If you take anything from this, it is that you are not expected to have all of this figured out at the start.
+## Further resources
 
-A PhD is very different from anything that comes before it and a lot of what helps only becomes obvious once you are in it.
+If you’re looking for more structured guidance, the University of Aberdeen has developed detailed resources on supporting disabled postgraduate researchers:
 
+- [Guidelines for disabled postgraduate researchers](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/Guidelines_for_disabled_Postgraduate_Researchers.pdf)
+- [Guidelines for supporting disabled postgraduate researchers (for staff/supervisors)](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/Guidelines_for_supporting_disabled_Postgraduate_Researchers.pdf)
+- [Examples of provisions to support disabled PGR students](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/Examples_of_provisions_to_support_disabled_PGR_Students_-_December_2023.pdf) 
+
+I also found this document my supervisor Kara found really helpful when thinking about my viva- [Guidance for Viva examination of Autistic/neurodivergent 
+PhD Students by Chloe Farahar](https://aucademy.co.uk/wp-content/uploads/2021/10/university-reasonable-adjustments-document-by-chloe-farahar.pdf).
+
+These include concrete examples of adjustments across different areas of the PhD and can be useful both for students and supervisors when starting these conversations.
+
+More broadly, you may also find helpful:
+
+- Your university’s Student Support / Disability Service
+- Disabled Students’ Allowance (DSA) guidance
+- Information from your funding body (e.g. UKRI) on disability-related support
+- Peer networks and online communities of neurodiverse researchers
+ 
+ ---
+ 
 So if you are asked what accommodations you need and your answer is “I don’t know” - that is completely normal.
 
-You can work it out as you go. And most of the time, small changes make a much bigger difference than you expect.
+Hopefully, this post has given you a solid starting point to figure out what you can ask for and how it works.
+
+And from there, these conversations become a lot easier to have.
+
+## If you find this helpful 
+
+Please give it a share and tag me!
+
+If you’re interested in the wider context, this is a really useful piece of further reading:
+
+[Improving the experience of disabled PhD students in STEM](https://disabledstudents.co.uk/wp-content/uploads/2023/10/Improving-the-Experience-of-Disabled-PhD-Students-in-STEM-small-print.pdf)
