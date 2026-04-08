@@ -60,7 +60,7 @@ This is the core text on thesis cover/title pages. Check your university’s sub
 >
 >Year
 
-You might consider adding your sponsor details- not many people did in the theses I looked at. Perhaps if you have a more private sponser versus the UK UKRI research training grants (Doctoral Training Partnerships or whatever they are rebranded now as).  
+You might consider adding your sponsor details- not many people did in the theses I looked at. Perhaps if you have a more private sponser versus the UK UKRI research training grants (e.g Doctoral Training Partnerships).  
 
 
 ### Declaration
