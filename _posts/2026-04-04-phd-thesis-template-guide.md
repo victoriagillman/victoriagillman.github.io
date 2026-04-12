@@ -4,9 +4,6 @@ title: 'A practical PhD thesis template and formatting guide'
 date: 2026-04-04
 permalink: /post/2026-04-04-phd-thesis-template-guide/
 tags: 
-  - cool posts
-  - category1
-  - category2
   - PhD
   - thesis
   - academic writing
@@ -19,7 +16,7 @@ When I was writing my PhD thesis, I found that understanding formatting guidance
 
 As a University of Aberdeen student, formal guidance is centred on the [library thesis submittance guidance](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/4.-Submission-of-research-thesis---Library-Guide_revised-05.03.2026.pdf) and the [pgr code of practice](https://www.abdn.ac.uk/media/site/staffnet/documents/academic-quality-handbook/1.-PGR_CoP_2025_26_clause-10.7-revised_05.03.2026.pdf). Informally, this is supplemented by advice from our supervisors and by looking at previous theses stored by the library on [Primo](https://abdn.primo.exlibrisgroup.com/discovery/search?vid=44ABE_INST:44ABE_VU1&lang=en). Ultimately, there are certain things a thesis must include, but also a lot of flexibility in how you deliver them.
 
-I aim with this post to provide a practical guide to what a thesis usually needs, what tends to be flexible and some formatting choices that can make life much easier for you and your examiners.
+I aim with this post to provide a practical guide to what a thesis usually needs, what tends to be flexible and give you some formatting choices and tips that can make life much easier for you and your examiners.
 
 {% include toc %}
 
@@ -29,6 +26,7 @@ The exact order and names of sections can vary. A lot.
  
 But most theses include these same core sections:
 
+* Cover/Title page
 * Declaration
 * Acknowledgements
 * Thesis summary / abstract
@@ -60,7 +58,7 @@ This is the core text on thesis cover/title pages. Check your university’s sub
 >
 >Year
 
-You might consider adding your sponsor details- not many people did in the theses I looked at. Perhaps if you have a more private sponser versus the UK UKRI research training grants (e.g Doctoral Training Partnerships).  
+You might consider adding your sponsor details- not many people did in the theses I looked at. Perhaps if you have a more private sponsor versus the UK UKRI research training grants (e.g Doctoral Training Partnerships).  
 
 
 ### Declaration
@@ -105,16 +103,13 @@ Side note: Fave quotes of mine are- "It takes a village" and "If I have seen fur
 
 A full summary of the entire thesis. Usually have a word limit, I believe Aberdeens is 300 words. 
 
-Some people include both a thesis abstract and a thesis summary...technically they are different things...but most (including me) only include one. I am not sure if I will write a seperate abstract for submission to the library- that is still to come for me! 
+Some people include both a thesis abstract and a thesis summary...technically they are different things...but most (including me) only include one. 
 
 This is often written very late. That’s common - not necessarily ideal - but common.
 
 ### Table of contents
 
 Your ToC will be auto-generated if you use [Word heading styles](https://support.microsoft.com/en-gb/office/use-the-navigation-pane-in-word-394787be-bca7-459b-894e-3f8511515e55). I prefered to number my headings, and [MS Word can do that for you too](https://support.microsoft.com/en-au/office/number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585) :blush:
-
-For page numbers, I prefer roman numerals for the front matter (eg. Declaration, Acknol. etc) and arabic numbers for the main text (eg General intro, data chapters etc).
-It is probably easier to just use arabic numbers from start to finish of the thesis document. I didn't want this, so I fiddled with [Word page numbering settings](https://support.microsoft.com/en-gb/office/customize-page-numbers-and-their-formats-in-different-word-document-sections-bb4da2bd-1597-4b0c-9e91-620615ed8c05)
 
 ### General introduction
 
@@ -192,6 +187,11 @@ After checking your supervisors opinion, any formatting seems acceptable as long
 
 Here are some common formats I've seen across theses:
 
+### Page numbers
+
+* For page numbers, I prefer roman numerals for the front matter (eg. Declaration, Acknol. etc) and arabic numbers for the main text (eg General intro, data chapters etc). However I have seen theses (and it is probably easier) just use arabic numbers from start to finish of the thesis document. I didn't want this, so I fiddled with [Word page numbering settings](https://support.microsoft.com/en-gb/office/customize-page-numbers-and-their-formats-in-different-word-document-sections-bb4da2bd-1597-4b0c-9e91-620615ed8c05)
+
+
 ### Font
 
 * Sans-serif (e.g. Arial) is commonly used and very readable. Serif fonts (e.g. Times New Roman) are often seen as more traditional. I used the default MS Word font but anything "professional" is generally fine.
@@ -202,7 +202,7 @@ Here are some common formats I've seen across theses:
 
 ### Margins and paragraphs
 
-* I used MS Word defaults (including spacing between paragraphs rather than indents). As long as you are consistent, then you should be golden.
+* I used MS Word defaults (including spacing between paragraphs rather than indents). As long as you are consistent, then you should be good.
 
 ### Text alignment
 
@@ -238,7 +238,7 @@ Next I want to take you through some tips that made my life so much easier in ca
 
 #### Auto-numbers
 * Using [Word auto numbering with figure/table captions](https://support.microsoft.com/en-au/office/create-a-cross-reference-300b208c-e45a-487a-880b-a02767d9774b) is your best friend. 
-* To ubdate the numbers, [press **Ctrl A** + **A**. Then press **F9**](https://support.microsoft.com/en-us/office/update-fields-7339a049-cb0d-4d5a-8679-97c20c643d4e)
+* To ubdate the numbers, [press **Ctrl A**+**F9**](https://support.microsoft.com/en-us/office/update-fields-7339a049-cb0d-4d5a-8679-97c20c643d4e)
 * In the cross-ref syles you can make them link to the multilevel numbering of chapters/sections eg Figure 1.1, Figure 2.3
 (I set my introduction as Section 0 → Figure 0.1)
 
@@ -268,7 +268,7 @@ Beyond that, the rest is up to you.
 
 If your examiners don’t like your formatting choices, they will usually suggest minor (and easy to implement) corrections. In most cases, the focus is on your research rather than the exact formatting.
 
-So, look at previous theses, check official guidance, ask your supervisor and then choose what makes the most sense for your work
+So, look at previous theses, check official guidance, ask your supervisor and then choose what makes the most sense for your work.
 
 ---
 
