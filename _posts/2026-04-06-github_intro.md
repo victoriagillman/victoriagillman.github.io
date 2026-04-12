@@ -82,7 +82,7 @@ Hopefully this will clear some things up!
 
 GitHub is for code and associated project files, not for storing huge raw datasets.
 
-<span style="background-color: #FFFF00">GitHub does not store files over 2 GB </span>, trying to do so will throw an error so large data files should be stored elsewhere and linked or documented properly instead- an example of how I do this below!
+<span style="background-color: #FFFF00">GitHub does not store files over 100 MB </span>, trying to do so will throw an error so large data files should be stored elsewhere and linked or documented properly instead- an example of how I do this below!
 
 ## Setting up GitHub with a new RStudio project
 
@@ -154,7 +154,7 @@ The `.gitignore` file tells Git which files or folders to ignore. You essentiall
 
 In my projects, I use it mainly for:
 
-* data files that are too large for GitHub (>2GB)
+* data files that are too large for GitHub (>100MB)
 * confidential files that should never be uploaded
 * occasional temporary or system-specific files
 
@@ -164,7 +164,7 @@ So for me I write in the .gitignore file something like:
 data/too_large_files/
 data/confidential/
 ```
-*This must be pushed to GitHub to function I believe. 
+*I always push it to github first, but it should work locally from the moment you save it I believe. 
 
 ## Using README.md 
 
@@ -218,7 +218,7 @@ git add .
 
 The `.` means “the current directory”, so this stages everything Git detects as changed in that location.
 
-This can be useful, but only when you are very sure what has changed. If you have large files, confidential files, or random clutter in a project, `git add .` is a great way to get errors from uploading something over 2GB, or to stage something you did not mean to upload.
+This can be useful, but only when you are very sure what has changed. If you have large files, confidential files, or random clutter in a project, `git add .` is a great way to get errors from uploading something over 100MB, or to stage something you did not mean to upload.
 
 So my general advice is:
 
@@ -256,7 +256,7 @@ If I have just been working on my own machine and want the online version update
 
 ### `git pull origin main`
 
-This does the opposite of `git push` — it downloads newer commits from GitHub onto your local machine.
+This pulls changes from GitHub into your local project (roughly the opposite direction to `git push`).
 
 If you are working on a single machine on your own, you may not use this much. It becomes important when you are:
 - you have made changes on another machine
