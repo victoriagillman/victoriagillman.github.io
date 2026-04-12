@@ -95,7 +95,7 @@ This is where you thank all the people who've helped you. There’s a loose orde
 3. Peers / lab mates
 4. Friends and family
 
-Style varies massively based on the authors preferences. Some are very formal, some make it very personal (I liked ones that address each person specifically eg, Thank you XXX for your kindness etc..). Some people include quotes or thank their study systems/species at the end. Some keep it short, mine was quite long in the end. I wrote it Christmas Eve after a glass of wine and got pretty senimental with it! 
+Style varies massively based on the authors preferences. Some are very formal, some make it very personal (I liked ones that address each person specifically eg, Thank you XXX for your kindness etc..). Some people include quotes or thank their study systems/species at the end. Some keep it short, mine was quite long in the end. I got pretty senimental with it! 
 
 Side note: Favourite quotes of mine are "It takes a village" and "If I have seen further, it is by standing on the shoulders of giants" (attributed to Isaac Newton, great quote, less nice backstory?). I also suggest you check out the works of Maya Angelou!
 
