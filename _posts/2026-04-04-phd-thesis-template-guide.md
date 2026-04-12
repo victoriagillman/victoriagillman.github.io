@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 'A practical PhD thesis template and formatting guide'
-date: 2026-04-04
-permalink: /post/2026-04-04-phd-thesis-template-guide/
+date: 2026-04-12
+permalink: /post/2026-04-12-phd-thesis-template-guide/
 tags: 
   - PhD
   - thesis
