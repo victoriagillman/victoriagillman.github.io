@@ -1,7 +1,7 @@
 ---
 title: 'PhD accommodations as a neurodiverse researcher'
-date: 2026-04-05
-permalink: /posts/2026-04-05-reasonalbe-adjustments/
+date: 2026-04-12
+permalink: /posts/2026-04-12-reasonalbe-adjustments/
 tags:
   - PhD
   - reasonable adjustments
@@ -13,14 +13,14 @@ toc: true
 toc_sticky: true 
 ---
 
-When I got the email to say I had been accepted for my PhD programme- I was thrilled. I was the first member of my direct family to go to university, and first member in my whole known family to go for a PhD. I also am dyslexic, now diagnosed autistic, and had received accommodations through extra time in my GCSEs and A-levels plus accommodations during my MSci, including extra time in exams and a special pen that recorded my lectures and my writing at the same time. Thinking back- I think I would've preferred a notetaker! 
+When I got the message to say I had been accepted for my PhD programme, I was thrilled. I was the first member of my direct family to go to university, and the first member in my wider family to go for a PhD. I had also received accommodations related to neurodiversity through my GCSEs, A-levels and my MSci. 
 
-So when I received my PhD offer, my first port of call was the Student Support service. Here I discovered that accommodations for PhD students were as clear as mud for the students and staff they interact with (inc supervisors and professional staff). 
+When I received my PhD offer, my first step was to look into what support was available. Here, I discovered that accommodations for PhD students can sometimes be unclear - for both students and staff they interact with (including supervisors and professional staff), particularly for new first-generation students who may find it harder to visualise what the full PhD process involves and what support might be helpful.
 
-I aim with this post to concisely clear up some of that confusion and provide concrete examples of accommodations that I heard about during my PhD
+I aim with this post to concisely clear up some of that confusion and provide concrete examples of accommodations that I encountered during my PhD.
 
 ## For the new PhD students
-When I had my first chat about accommodations, I was asked what I thought would be useful. I answered- *"I don't know, I have never done a PhD before!"* So first, here is a breakdown of what a general PhD looks like.  
+When I had my first chat about accommodations, I was asked what I thought would be useful. I answered- *"I don't know, I have never done a PhD before."* So first, here is a breakdown of what a general PhD looks like. 
 
 PhDs similar to mine, that is a PhD in Biological Sciences in the UK lasting 3-4 years, largely have these main activities:
 
@@ -53,35 +53,35 @@ This usually goes through student support or disability services and may result 
 
 ### 2. Disabled Students’ Allowance (DSA)/ Funded specific adjustments
 
-Depending on your situation, you may also be eligible for Disabled Students’ Allowance or your funding body may have additional funding available for disability support (hello UKRI funded students). 
+Depending on your situation, you may also be eligible for Disabled Students’ Allowance or your funding body may have additional funding available for disability support (e.g. UKRI funded students). 
 
 This can fund things like:
 - software (e.g. text-to-speech)
 - equipment
 - specialist mentoring
 
-However, how this applies to PhD students can be a bit unclear, especially depending on whether your PhD is:
-- self-funded  
-- funded by a research council (e.g. UKRI)  
-- funded by another source  
+However, how this applies to PhD students can vary, especially depending on whether your PhD is:
+- self-funded 
+- funded by a research council (e.g. UKRI) 
+- funded by another source 
 
-Student support usually leads this, plus your school administrator and your funding body. I recommend asking about your specific process to getting funded support early on - including who sends what paperwork to who, and especially reasonable timelines for each step down the funding pipeline. Dont be afraid to ask questions.
+Student support usually leads this, alongside your school administrator and your funding body. I recommend asking early on about your specific process to accessing funded support - including who sends what paperwork to who, and especially reasonable timelines for each step down the funding pipeline. Don't be afraid to ask questions.
 
 ### 3. Informal / day-to-day adjustments
 
 A lot of the most useful changes in a PhD are not formal at all.
 
 They are things you agree with:
-- your supervisor  
-- your lab group  
-- your department  
+- your supervisor 
+- your lab group 
+- your department 
 
 For example:
-- how meetings are run  
-- where you work  
-- how tasks are structured  
+- how meetings are run 
+- where you work 
+- how tasks are structured 
 
-These are often the easiest to implement, but also the least clearly communicated.
+These are often the easiest to implement informally, but may also be supported through formal systems.
 
 ---
 
@@ -91,24 +91,26 @@ One way I have found helpful to answer this question is to think about your PhD 
 
 ## Common PhD activities, potential challenges, and accommodations
 
-| Activity | Issues you might have | Possible accommodations |
+Below are some ideas of common issues and potential accommodations I have encountered during my time as a PhD student.
+
+| Activity | Challenges you might experience | Possible accommodations |
 |----------|----------------------|------------------------|
-| **Research and reading** | Difficulty focusing on long texts, slow reading speed, fatigue | Text-to-speech software, ClaroRead screenrulers and tints, AI summariser software like Scholarcy, structured reading plans- eg. going into the literature with a task in mind versus just blandly summarising papers |
-| **Working in a shared office** | Noise from coworkers, overhead lighting, social fatigue | Noise cancelling headphones, sensory aids (eg weighted blanket, stim tools), opening discussion on adjustments to the office setup (control over lighting), access to a quiet/sensory room, flexibility to work from home |
-| **Supervisor meetings** | Processing verbal information quickly, remembering feedback, anxiety | Regularly scheduled meetings (versus having to ask for one and forgetting!), sending agendas beforehand, recording meetings (with permission), written summaries after meetings, possibility for text-based supervisor meetings (e.g MS Teams) |
-| **Writing** | Structuring your work (arguments), writing fatigue | Regular check-ins with supervisors, breaking work into smaller deadlines, writing support services, proofreading services, speech-to-text software |
-| **Labwork** | Following multi-step protocols, sensory overload, time pressure | Clearly written protocols (if there aren't any, discuss with supervisor as you develop them, plus protocols for fixing some common mistakes- eg this mistake isn't the end of the world, we can just adjust and do this instead), extra training time, quieter lab times where possible |
-| **Fieldwork** | Unpredictable environments, sensory challenges, fatigue, travel stress | Adjusted schedules, additional breaks, flexibility in participation, alternative tasks if needed, funding for a field assistant (? worth asking about!) |
-| **Data analysis / coding** | Debugging frustration, concentration, managing complex workflows | Training/advice on structuring workflows, clear documentation (see my post re Github!), access to training resources |
+| **Research and reading** | Difficulty focusing on long texts, slow reading speed, fatigue | Text-to-speech software, ClaroRead screenrulers and tints, AI summariser software like Scholarcy, structured reading plans- eg. going into the literature with a task in mind versus just blandly summarising papers, discussion with supervisor for priority setting and milestones |
+| **Working in a shared office** | Noise from coworkers, overhead lighting, social fatigue | Noise cancelling headphones, sensory aids (eg weighted blanket, stim tools), adjustments to the office setup (control over lighting, desk location), access to a quiet/sensory room, flexibility to work from home, flexible work hours |
+| **Supervisor meetings** | Processing verbal information quickly, remembering feedback, anxiety | Regularly scheduled meetings (versus relying on ad hoc scheduling), sending agendas beforehand, recording meetings (with permission) or being supported by a note-taker, explicitly stated actions at the end of a meeting, written summaries after meetings, possibility for text-based supervisor meetings (e.g MS Teams) |
+| **Writing** | Structuring your work (arguments), writing fatigue | Regular check-ins with supervisors, breaking work into smaller deadlines, writing support services, proofreading services, speech-to-text software, separating feedback on content versus structure and language ([approaches used in other disciplines, such as the arts, can be helpful here](https://medium.com/@vilabianca/the-10-steps-to-a-high-quality-manuscript-understanding-the-review-editing-process-2490057f44ae)) |
+| **Labwork** | Following multi-step protocols, sensory overload, time pressure | Clearly written protocols with check boxes (if there aren't any, discuss with supervisor as you develop them), protocols/guidance on how to respond to common mistakes or issues, extra training time, quieter lab times where possible, permission to take photos/videos during training |
+| **Fieldwork** | Unpredictable environments, sensory challenges, fatigue, travel stress | Adjusted schedules, additional breaks, flexibility in participation, alternative tasks if needed, funding for a field assistant (? worth asking about!), control over accommodation (quiet room/own space), develop clear daily structure in advance, support with travel logistics (airport assistance services) |
+| **Data analysis / coding** | Debugging frustration, concentration, managing complex workflows | Training/advice on structuring workflows, clear documentation (see my post re Github!), access to training resources including template project structures/flowcharts |
 | **Conferences** | Social exhaustion, travel fatigue, presenting anxiety, overwhelm in poster session, choosing talks to see | Attending fewer sessions, quiet spaces, practicing talks with your supervisor/friends/labmates, earplugs/noise cancelling headphones, noting down posters you want to see before the poster session- I find a targeted approach is best in the chaos |
-| **Progression assessments (year 1/2)** | Performance pressure, time constraints, unfamiliar format | Mock assessments, clear expectations, guidance for the examiners, flexibility in format where possible |
-| **Final viva** | High-pressure situation, long verbal examination, fatigue | Scheduled rest breaks, clear structure, option for adjustments (e.g. timing, format), familiar environment, discussing needs in advance |
+| **Progression assessments (year 1-2)** | Uncertainty about expectations, time constraints, unfamiliar format | Mock assessments, written expectations, guidance for the examiners, flexibility in format where possible |
+| **Final viva** | High-pressure situation, long verbal examination, fatigue | Mock assessments, scheduled rest breaks, clear structure, option for adjustments (e.g. timing, format), familiar environment, discussing needs in advance, a notetaker to transcribe questions and provide notes post viva, explicit allowance for processing time when answering questions |
 
 A lot of this also depends on awareness and communication. Training for supervisors and professional staff makes a huge difference, as does access to specialist mentoring.
 
 I would also really recommend co-working - find a friend, both log onto Teams, chat for five minutes about what you want to get done, then work to a pomodoro timer. 
 
-This is not an exhaustive list, but hopefully it gives you a starting point.
+This is not an exhaustive list but hopefully it gives you a starting point.
 
 ## Further resources
 

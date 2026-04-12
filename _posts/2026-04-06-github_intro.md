@@ -1,7 +1,7 @@
 ---
 title: 'Intro to GitHub with RStudio and HPC systems'
-date: 2026-04-14
-permalink: /posts/2026-04-14-github/
+date: 2026-04-12
+permalink: /posts/2026-04-12-github/
 tags:
   - github
   - rstudio	
