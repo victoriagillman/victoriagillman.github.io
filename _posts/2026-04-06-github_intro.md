@@ -1,7 +1,7 @@
 ---
 title: 'Intro to GitHub with RStudio and HPC systems'
-date: 2026-04-05
-permalink: /posts/2026-04-05-github/
+date: 2026-04-14
+permalink: /posts/2026-04-14-github/
 tags:
   - github
   - rstudio	
@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true 
 ---
 
-GitHub is one of those things that many people in research have vaguely heard of, know they probably *should* be using, and then avoid for far too long. That was definitely me at first.
+GitHub is one of those things that many people in research have vaguely heard of, know they probably should be using, and then avoid for far too long. That was definitely me at first.
 
 If you are not building apps, working in a large software team, or spending all day in the command line, GitHub might not feel like its particularly made for you. A lot of the explanations online are aimed at developers, which can make it feel less relevant than it actually is for academic workflows.
 
@@ -57,7 +57,7 @@ Finally, once you are done with a project and you have published it (!), having 
 
 ### 3. Better project organisation
 
-While not innately a specific benefit, by using GitHub I have been influenced to have better file management in each project. GitHub works in the way where each project is kept within one neat, self-contained **repository**. Therefore, all my projects now start with the same initail structure, making my projects easier to understand, even when I have put is down for a while.
+While not innately a specific benefit, by using GitHub I have been influenced to have better file management in each project. GitHub works in the way where each project is kept within one neat, self-contained **repository**. Therefore, all my projects now start with the same initial structure, making my projects easier to understand, even when I have put it down for a while.
 
 So to sum up, I view using GitHub as a way to keep everything together in a neat, transferable, reproducible package. Great for day-to-day and will make your/our lives easier in the long run. 
 
@@ -67,7 +67,7 @@ There is just that pesky initial learning curve...
 
 GitHub, like everything else in life, comes with some jargon. The good news is that you do not need much of it to get started.
 
-Hoepfully this will clear some things up! 
+Hopefully this will clear some things up! 
 
 | Term | What it means | How I think about it |
 |------|--------------|---------------------|
@@ -119,7 +119,7 @@ That downloads the online repository to your computer and creates the linked R p
 
 Once the repo exists locally, I like to set up my usual file structure, with the knowledge I then have to leave that structure alone so less chance of the code breaking. 
 
-Using R Projects changed my life, because it sets the working directory automatically, keeps code and data together, and can link with Git and GitHub. Previously I have code files and data files saved accross my computer and was always losing things or breaking my code when the file route changed.  
+Using R Projects changed my life, because it sets the working directory automatically, keeps code and data together, and can link with Git and GitHub. Previously I have code files and data files saved across my computer and was always losing things or breaking my code when the file path changed.  
 
 One slightly confusing thing at first is that **empty folders do not show up on GitHub**. So if you create a nice folder structure locally and then panic because GitHub is not showing it, that is normal. Once files exist inside those folders and you commit them, they will appear.
 
@@ -146,7 +146,7 @@ I have settled on this structure for a few reasons.
 
 First, it keeps file paths tidy and portable. If everything lives inside one project folder, it is much easier to move the project between locations or machines without breaking links to data and outputs.
 
-Second, it makes easy to seperate what files should and should not go to GitHub. I can just set the .gitignore up to ignore certain subfolders and then forget about it. 
+Second, it makes easy to separate what files should and should not go to GitHub. I can just set the .gitignore up to ignore certain subfolders and then forget about it. 
 
 ## Using `.gitignore` 
 
@@ -226,7 +226,7 @@ So my general advice is:
 * use `git status` first to identify large randomly generated clutter
 * only use `git add .` when you are confident about what is new in the repo
 
-If like me you have accidentally tried to push something too large to GitHub-and have found out by recieving an error- this might be the code to help. I have not used it in a while because after the faff of getting out of that error I have been **very** carefull to avoid this. You will need to write it in the terminal in R. 
+If like me you have accidentally tried to push something too large to GitHub-and have found out by recieving an error- this might be the code to help. I have not used it in a while because after the faff of getting out of that error I have been **very** careful to avoid this. You will need to write it in the terminal in R. 
 
 ```bash
 git reset HEAD~1
@@ -286,7 +286,7 @@ Cue :sparkles: GitHub :sparkles:
 My HPC bioinformatics workflow looks like this:
 
 1. Edit code locally (in Notepad ++)
-2. Commit and push changes from RStudio terminal (because I have already linked my GitHub repo to my RProj and I am always tickering in there anyway!)
+2. Commit and push changes from RStudio terminal (because I have already linked my GitHub repo to my RProj and I am always tinkering in there anyway!)
 3. Pull those changes on the HPC
 4. Run the job there
 
@@ -311,7 +311,7 @@ git pull origin main
 ```
 
 and the updated scripts are there.
-If I make a quick edit in the HPC I do it the other was round- push from the HPC and pull from my local PC.
+If I make a quick edit in the HPC I do it the other way round- push from the HPC and pull from my local PC.
 
 ## Setting up GitHub authentication on an HPC
 
@@ -370,11 +370,14 @@ If you are new to GitHub, once the initial setup and learning curve is done, the
 <img src="{{ '/images/github_tut/git_daytoday_simple.png' | relative_url }}" 
      style="width:100%; display:block; margin-left:20px;">
 	 
-## Helpful resources
+	 
+---
+
+If you found this post helpful, please share it!
 
 If you want to go a bit further, two resources I recommend are:
 
 * [GitHub Docs](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
-I also have a presentation version of this, please to get in touch if that would be useful for your group. :blush:
+I also have a presentation version of this, so please do get in touch if that would be useful for your group. :blush:
