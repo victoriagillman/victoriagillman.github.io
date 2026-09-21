@@ -55,7 +55,7 @@ Alongside research, I am interested in accessibility and inclusivity in academia
 
 /* Graduation Ziggy */
 .ziggy-graduation {
-  width: 80%;
+  width: 90%;
   justify-self: end;
   align-self: end;
   opacity: 0;
