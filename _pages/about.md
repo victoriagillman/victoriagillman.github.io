@@ -39,6 +39,7 @@ Alongside research, I am interested in accessibility and inclusivity in academia
   float: right;
   margin-left: 0;
   display: grid;
+  cursor: pointer;
 }
 
 .ziggy-hover img {
@@ -62,13 +63,44 @@ Alongside research, I am interested in accessibility and inclusivity in academia
   transition: opacity 0.25s ease;
 }
 
-.ziggy-hover:hover .ziggy-graduation {
+/* Desktop hover */
+@media (hover: hover) {
+  .ziggy-hover:hover .ziggy-graduation {
+    opacity: 1;
+  }
+
+  .ziggy-hover:hover .ziggy-normal {
+    opacity: 0;
+  }
+}
+
+/* Tap/click toggle */
+.ziggy-hover.active .ziggy-graduation {
   opacity: 1;
 }
 
-.ziggy-hover:hover .ziggy-normal {
+.ziggy-hover.active .ziggy-normal {
   opacity: 0;
+}
+
+/* Mobile sizing */
+@media (max-width: 600px) {
+  .ziggy-hover {
+    width: 75%;
+    float: none;
+    margin: 1rem auto;
+  }
+
+  .ziggy-graduation {
+    width: 90%;
+  }
 }
 </style>
 
 When I am not beavering away at my keyboard, or generally doing science, I can usually be found walking with my dog Ziggy, casually birding, swimming, doing puzzles or learning a new craft.
+
+<script>
+document.querySelector('.ziggy-hover')?.addEventListener('click', function () {
+  this.classList.toggle('active');
+});
+</script>
