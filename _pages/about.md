@@ -21,9 +21,54 @@ My research is published in *Conservation Genetics*, including work on genomic e
 
 Alongside research, I am interested in accessibility and inclusivity in academia, particularly for neurodivergent and disabled researchers, as well as data visualisation, reproducible workflows and clear scientific communication. I have served as a postgraduate representative and committee Chair, contributed to guidance for disabled postgraduate researchers and supervisors, and delivered training in GitHub and reproducible research.
 
-<img src="{{ '/images/ziggycutout_bigger.png' | relative_url }}" 
-     alt="Ziggy" 
-     style="width:50%; float:right; margin-left:0px;"
-     loading="lazy">
+<div class="ziggy-hover">
+  <img src="{{ '/images/ziggycutout_bigger.png' | relative_url }}"
+       alt="Ziggy"
+       class="ziggy-normal"
+       loading="lazy">
+
+  <img src="{{ '/images/ziggy_graduation.png' | relative_url }}"
+       alt="Ziggy in his graduation gown"
+       class="ziggy-graduation"
+       loading="lazy">
+</div>
+
+<style>
+.ziggy-hover {
+  width: 50%;
+  float: right;
+  margin-left: 0;
+  display: grid;
+}
+
+.ziggy-hover img {
+  grid-area: 1 / 1;
+  height: auto;
+  align-self: end;
+}
+
+/* Normal Ziggy */
+.ziggy-normal {
+  width: 100%;
+  transition: opacity 0.25s ease;
+}
+
+/* Graduation Ziggy */
+.ziggy-graduation {
+  width: 80%;
+  justify-self: end;
+  align-self: end;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.ziggy-hover:hover .ziggy-graduation {
+  opacity: 1;
+}
+
+.ziggy-hover:hover .ziggy-normal {
+  opacity: 0;
+}
+</style>
 
 When I am not beavering away at my keyboard, or generally doing science, I can usually be found walking with my dog Ziggy, casually birding, swimming, doing puzzles or learning a new craft.
